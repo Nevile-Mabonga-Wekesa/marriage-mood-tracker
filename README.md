@@ -24,8 +24,8 @@ Part of the **Code & Covenant** brand — blending **technology, relationships, 
 ---
 ---
 
-## 🖼️ Sample Output
-![Marriage Mood Tracker](marriage_mood_tracker_v1.png)
+## 🖼️ Live Demo
+https://drive.google.com/file/d/1Nw_b7TYaXvwMHmDKZNssvjKT50JjQHfn/view?usp=drive_link
 
 ---
 
